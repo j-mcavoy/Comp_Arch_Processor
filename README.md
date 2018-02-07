@@ -2,4 +2,4 @@
 ARM Processor - Computer Architecture Section 2
 
 
-This repo is now archieved, commit to the Comp Arch team repo
+This repo is now achieved, commit to the Comp Arch team repo
